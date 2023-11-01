@@ -40,7 +40,7 @@ export default function Home() {
                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text:5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                As a skilled front-office manager, tradrer, and developer, I am
+                As a skilled front-office manager, trader, and developer, I am
                 dedicated to turning ideas into profitable operations. Explore
                 my latest projects showcasing my expertise in project
                 management, coding, quantitative analytics, and finance.
