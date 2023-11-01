@@ -1,13 +1,13 @@
 import React, { useRef } from "react";
 import { motion, useScroll } from "framer-motion";
 import LiIcon from "./LiIcon";
-
+// items-center
 const Details = ({ type, place, info }) => {
   const ref = useRef(null);
   return (
     <li
       ref={ref}
-      className="my-8 first:mt-0 last:mb-0 w-[60%] mx-auto flex flex-col items-center justify-between md:w-[80%]"
+      className="my-8 first:mt-0 last:mb-0 w-[60%] mx-auto flex flex-col  justify-between md:w-[80%]"
     >
       <LiIcon reference={ref} />
       <motion.div
@@ -61,7 +61,7 @@ const Education = () => {
             type="General Course Degree"
             // time='2016-2020'
             place="London School of Economics (LSE), London, England"
-            info="Courses: Monetary Economics, International Economics, and Economic History"
+            info="Courses: Monetary Economics, International Economics, and Economic History."
           />
         </ul>
       </div>
