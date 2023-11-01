@@ -36,17 +36,17 @@ const Skills = () => {
           Enterprise Applications
         </motion.div>
 
-        <Skill name="SQL" x="0vw" y="-30vw" />
-        <Skill name="React/NextJS" x="-20vw" y="-25vw" />
-        <Skill name="Python" x="15vw" y="-20vw" />
-        <Skill name="Agile/Scrum/Jira" x="-5vw" y="-15vw" />
-        <Skill name="Java" x="32vw" y="-10vw" />
-        <Skill name="Excel/VBA" x="-15vw" y="10vw" />
-        <Skill name="HTML/CSS/JS" x="-25vw" y="15vw" />
-        <Skill name="C#/.Net" x="20vw" y="20vw" />
-        <Skill name="AI/Machine Learning" x="0vw" y="25vw" />
-        <Skill name="PowerBI/DAX" x="-18vw" y="30vw" />
-        <Skill name="C++" x="18vw" y="35vw" />
+        <Skill name="SQL" x="0vw" y="-27vw" />
+        <Skill name="React/NextJS" x="-20vw" y="-22vw" />
+        <Skill name="Python" x="15vw" y="-18vw" />
+        <Skill name="Agile/Scrum/Jira" x="-5vw" y="-13vw" />
+        <Skill name="Java" x="32vw" y="-8vw" />
+        <Skill name="Excel/VBA" x="-15vw" y="8vw" />
+        <Skill name="HTML/CSS/JS" x="-25vw" y="13vw" />
+        <Skill name="C#/.Net" x="20vw" y="18vw" />
+        <Skill name="AI/Machine Learning" x="0vw" y="23vw" />
+        <Skill name="PowerBI/DAX" x="-18vw" y="28vw" />
+        <Skill name="C++" x="18vw" y="30vw" />
       </div>
     </>
   );

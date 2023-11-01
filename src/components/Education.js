@@ -54,13 +54,13 @@ const Education = () => {
           <Details
             type="Bachelor Of Arts"
             // time='2016-2020'
-            place="Hamilton College"
+            place="Hamilton College, Clinton, NY"
             info="Major: Economics; relevant courses included Statistics, Computer Science, Physics, Mathematics."
           />
           <Details
             type="General Course Degree"
             // time='2016-2020'
-            place="London School of Economics (LSE)"
+            place="London School of Economics (LSE), London, England"
             info="Courses: Monetary Economics, International Economics, and Economic History"
           />
         </ul>
