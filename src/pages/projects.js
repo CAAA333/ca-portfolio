@@ -7,7 +7,7 @@ import Link from "next/link";
 import React from "react";
 import project1 from "../../public/images/projects/PBILight.jpg";
 import project2 from "../../public/images/projects/ibm-take-two.png";
-import project3 from "../../public/images/projects/QuantLib.png";
+import project3 from "../../public/images/projects/Acadia.png";
 import project4 from "../../public/images/projects/TCV_0001_riskmetrics.png";
 import project5 from "../../public/images/projects/BroadRidge.jpg";
 import project6 from "../../public/images/projects/NatWest.png";
@@ -168,9 +168,9 @@ const projects = () => {
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="AcadiaSoft's QuantLib"
+                title="Acadia's Open-Source Risk Engine (ORE)"
                 img={project3}
-                summary="Implemented QuantLib for calculating Risk Weighted Assets (RWA) using an internal model jointly developed with AcadiaSoft.  Skills: C++, Python, Github, GitLab, SQL"
+                summary="Implemented QuantLib and ORE for calculating Potential Future Exposure (PFE) and Risk Weighted Assets (RWA) using an internal model jointly developed with Acadia Quaternion.  Skills: C++, Python, Github, GitLab, SQL"
                 link="https://www.quantlib.org/"
                 // github='/'
                 type="Project"
